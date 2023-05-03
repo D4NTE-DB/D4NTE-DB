@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React Native, AWS**
 
-- 👨‍💻 All of my projects are available at [https://danielbabilonia.netlify.app/](https://danielbabilonia.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://danielbabilonia.netlify.app/#portfolio](https://danielbabilonia.netlify.app/)
 
 - 💬 Ask me about **React, Javascript, CSS, HTML**
 
 - 📫 How to reach me **dantealigheri.1998@gmail.com**
 
-- 📄 Know about my experiences [https://danielbabilonia.netlify.app/](https://danielbabilonia.netlify.app/)
+- 📄 Know about my experiences [https://danielbabilonia.netlify.app/](https://danielbabilonia.netlify.app/#container-exp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
