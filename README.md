@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Babilonia</h1>
-<h3 align="center">A passionate web developer from Colombia India</h3>
+<h3 align="center">A passionate web developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4nte-db&label=Profile%20views&color=0e75b6&style=flat" alt="d4nte-db" /> </p>
 
