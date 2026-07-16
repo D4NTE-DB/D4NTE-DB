@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4nte-db" alt="d4nte-db" /></a> </p>
 
-- 🔭 I’m currently working at **Kodland**
+- 🔭 I’m currently working at **Open To Work**
 
 - 🌱 I’m currently learning **React Native, AWS**
 
 - 👨‍💻 All of my projects are available at [https://danielbabilonia.netlify.app/#portfolio](https://danielbabilonia.netlify.app/)
 
-- 💬 Ask me about **React, Javascript, CSS, HTML**
+- 💬 Ask me about **React, Javascript, HTML, CSS, SCSS, Storybook, Figma, MCP Servers, LLMs**
 
 - 📫 How to reach me **dantealigheri.1998@gmail.com**
 
