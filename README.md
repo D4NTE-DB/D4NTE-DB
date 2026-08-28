@@ -1,22 +1,33 @@
-<h1 align="center">Hi 👋, I'm Daniel Babilonia</h1>
-<h3 align="center">A passionate web developer from Colombia</h3>
+## Hi, I'm Daniel Babilonia 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d4nte-db&label=Profile%20views&color=0e75b6&style=flat" alt="d4nte-db" /> </p>
+Full-Stack & Frontend Engineer building modern web applications and scalable platforms from Colombia. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4nte-db" alt="d4nte-db" /></a> </p>
+Software Developer with over 5 years of experience specializing in scalable frontend architecture and modern UI engineering. I recently helped create, deploy, and maintain a robust Design System utilized by an S&P 500 company.
 
-- 🔭 I’m currently working at **Open To Work**
+I am passionate about accelerating development workflows through Generative AI. By building custom Model Context Protocol (MCP) integrations with Figma, I empower designers to seamlessly ship design POCs and examples directly to code, significantly bridging the gap between design and engineering. 
 
-- 🌱 I’m currently learning **React Native, AWS**
+From full-stack application development to resilient CI/CD pipelines, I focus on delivering scalable, high-performance web solutions that drive real business value.
 
-- 💬 Ask me about **React, Javascript, HTML, CSS, SCSS, Storybook, Figma, MCP Servers, LLMs**
+These days I work AI-First: directing AI tooling like Claude, GitHub Copilot, and Model Context Protocol (MCP) servers to move faster while maintaining clean architecture and production-grade software standards . I am also currently expanding my knowledge in **Python** and **Data Science**.
 
-- 📫 How to reach me **dantealigheri.1998@gmail.com**
+### What I work with
 
-<h3 align="left">Connect with me:</h3>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Featured
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4nte-db&" alt="d4nte-db" /></p>
+- **[Personal Portfolio — live](https://danielbabilonia.netlify.app/)** — A high-performance personal web application portfolio built with Gatsby, React, and GraphQL, deployed on Netlify.
+- **[D4NTE-DB/portfolio-gatsby](https://github.com/D4NTE-DB/portfolio-gatsby)** — The source code for my portfolio showcasing modern web architecture and continuous deployment.
 
+### Reach me
+
+- **LinkedIn** — [linkedin.com/in/daniel-babilonia](https://linkedin.com/in/daniel-babilonia)
+- **Email** — [dantealigheri.1998@gmail.com](mailto:dantealigheri.1998@gmail.com)
