@@ -8,7 +8,7 @@ I am passionate about accelerating development workflows through Generative AI. 
 
 From full-stack application development to resilient CI/CD pipelines, I focus on delivering scalable, high-performance web solutions that drive real business value.
 
-These days I work AI-First: directing AI tooling like Claude, GitHub Copilot, and Model Context Protocol (MCP) servers to move faster while maintaining clean architecture and production-grade software standards . I am also currently expanding my knowledge in **Python** and getting the **AWS Cloud Technical Essentials** certificate.
+These days I work AI-First: directing AI tooling like Claude, GitHub Copilot, and Model Context Protocol (MCP) servers to move faster while maintaining clean architecture and production-grade software standards . I am also currently expanding my knowledge in **Python** and getting the **AWS Cloud Solutions Architect** certificate.
 
 ### What I work with
 
